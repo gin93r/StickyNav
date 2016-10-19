@@ -1,5 +1,5 @@
 # StickyNav
-A simple [jQuery](http://jquery.com/) plugin for a stick nav (or element)
+A simple [jQuery](http://jquery.com/) plugin for a sticky nav (or element)
 
 ### Usage
 ```
