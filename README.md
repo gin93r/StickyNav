@@ -20,7 +20,7 @@ $("selector").StickyNav(options);
 ```
 
 ### Options
-`stickAt ` {int} _default 1:_ Element will apply the "stick" class as soon as the window is scrolled.
+`stickAt ` {int} _default 1:_ Element will apply the "stick" class as soon as the window is scrolled to this position.
 
 `stickClass` {string} _default sticky:_ The css class to add to element when it is stuck. 
 
